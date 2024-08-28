@@ -1,7 +1,4 @@
-export const navigationData = [{
-    title:'Home',
-    link:'#'
-},
+export const navigationData = [
 {
     title:'Projects',
     link:'#projects'
